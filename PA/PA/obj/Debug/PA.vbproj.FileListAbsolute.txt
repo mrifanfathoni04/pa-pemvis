@@ -1,0 +1,53 @@
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\bin\Debug\PA.exe.config
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\bin\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\bin\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\bin\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.Resources.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\bin\Debug\mysql.data.dll
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanAwal.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanTambahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanUbahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanBuatSurat.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA\PA_cok_asu\PA_cok_asu\PA_cok_asu\obj\Debug\PA.TampilanAwalSurat.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\bin\Debug\PA.exe.config
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\bin\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\bin\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\bin\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\bin\Debug\mysql.data.dll
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.TampilanAwal.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.TampilanTambahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.TampilanData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.Resources.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.TampilanUbahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.SuratTampilanData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.SuratTampilanAwal.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA f\PA\PA\PA\obj\Debug\PA.SuratTampilanBuat.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\bin\Debug\PA.exe.config
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\bin\Debug\PA.exe
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\bin\Debug\PA.pdb
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\bin\Debug\PA.xml
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\bin\Debug\mysql.data.dll
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.SuratTampilanData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.TampilanAwal.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.SuratTampilanAwal.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.TampilanTambahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.TampilanData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.SuratTampilanBuat.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.Resources.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.TampilanUbahData.resources
+D:\RIFAN\Kuliah\Semester 4\Pemrograman Visual\Praktikum\PA fix\PA\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
